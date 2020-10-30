@@ -1,5 +1,5 @@
 
-# Capstone Proposal 1: ****Are Pokemon Getting Stronger?****
+# Capstone Project: ****Are Pokemon Getting Stronger?****
 ![](/home/chloe/Downloads/800px-International_Pokémon_logo.svg.png) 
 
 ## Introduction
@@ -13,6 +13,13 @@ There are 6 stats for each pokemon: **attack, defense, special attack, special d
 
 * **Experiment Hypothesis**: Pokemon from old generations has lower base stats compared to those from newer generations.
 
+## Data Exploration
+![Average of Stat Total Per Generation](https://github.com/chloengnguyen/Capstone-1/blob/master/Graph/Average-Stat-Total.png)
+
+
+## Result & Conclusion 
+
+
 ## Additional Questions/ Works:
 * Do the introduction of Mega Evolution skew my data?  
     Mega Evolution are modification of older pokemon and they are introduced later in the series. These new pokemon share the same pokedex number (id) as their original version but have higher stats. 
@@ -25,16 +32,3 @@ There are 6 stats for each pokemon: **attack, defense, special attack, special d
 
 ----
 
-# Capstone Proposal 2: ****Does location affect job satisfaction ?****
-## Introduction
-
-In addition to salary, job satisfaction is a major factor in deciding to take a job offer. One common factor people look at is location. I want to investigate if there is a significant difference in **job rating** based on the **location**. I acknowledge that the amount of rating per job will not be the same between small and big cities and so as a result small cities have less robust data. 
-For the purpose of simplifying this process, I will select only these locations: Seattle, New York, San Francisco, Boston, Chicago, Atlanta, Austin, Denver, Dallas, Pittsburgh, Phoenix. 
-
-## Hypothesis  
-* **Null Hypothesis**: There is no significant difference in job rating between different cities.
-* **Experiment Hypothesis**: There is a significant difference in job rating between different cities.
-
-## Data Source 
-* https://www.indeed.com/
-* https://www.glassdoor.com/
