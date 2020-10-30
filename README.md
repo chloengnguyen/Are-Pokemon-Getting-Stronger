@@ -9,9 +9,9 @@ There are 6 stats for each pokemon: **attack, defense, special attack, special d
 
 ## Hypothesis 
 
-* **Null Hypothesis** : Pokemons from old generations have the same base stats as those from newer generations.
+* **Null Hypothesis** : Pokemons from older generations have the same base stats as those from newer generations.
 
-* **Experiment Hypothesis**: Pokemon from old generations has lower base stats compared to those from newer generations.
+* **Experiment Hypothesis**: Pokemon from older generations has lower base stats compared to those from newer generations.
 
 ## Data Exploration
 ![Average of Stat Total Per Generation](https://github.com/chloengnguyen/Capstone-1/blob/master/Graph/Average-Stat-Total.png)
