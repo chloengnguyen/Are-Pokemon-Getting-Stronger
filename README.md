@@ -14,8 +14,10 @@ There are 6 stats for each pokemon: **attack, defense, special attack, special d
 * **Experiment Hypothesis**: Pokemon from older generations has lower base stats compared to those from newer generations.
 
 ## Data Exploration
-![Average of Stat Total Per Generation](https://github.com/chloengnguyen/Capstone-1/blob/master/Graph/Average-Stat-Total.png)
-
+![Average of Stat Total Per Generation](https://github.com/chloengnguyen/Capstone-1/blob/master/graph/Average-Stat-Total.png)
+![Pokemon's Stat Total from Older Generations ](https://github.com/chloengnguyen/Capstone-1/blob/master/graph/Total-Stat-OldGen.png)
+![Pokemon's Stat Total from Newer Generations ](https://github.com/chloengnguyen/Capstone-1/blob/master/graph/Total-Stat-NewGen.png)
+![Base Stat Total vs Individual Stat](https://github.com/chloengnguyen/Capstone-1/blob/master/graph/)stats-matrix.png
 
 ## Result & Conclusion 
 
