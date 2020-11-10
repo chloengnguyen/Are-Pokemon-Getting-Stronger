@@ -59,6 +59,5 @@ The study aims to determine if there is a change in pokemon strength over 8 gene
     Mega Evolution are modification of older pokemon and they are introduced later in the series. These new pokemon share the same pokedex number (id) as their original version but have higher stats. 
 * Are all stats changing at the same rate? 
  
-* In EDA, I observed there were some trends in type combination. In future study, a test statistic could be done 
 ----
 
